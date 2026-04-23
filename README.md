@@ -24,6 +24,6 @@ Atuo principalmente com Python e SQL, possuindo base em C e buscando aprimoramen
 
 - ## 📞 Entre em contato
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-julio-lima-b32039263/
-- Email: jovijulio02@gmail.com
+- Email: jovijulio10@gmail.com
 
 ---
