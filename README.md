@@ -20,7 +20,6 @@
   🚀 Em constante evolução, aprimorando habilidades através de 
   <b>projetos práticos</b> e estudos contínuos.
 </p>
----
 
 ## 🛠️ Tecnologias principais
 <p align="center">
