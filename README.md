@@ -43,4 +43,4 @@ Atuo principalmente com Python e SQL, possuindo base em C e buscando aprimoramen
 ---
 
 ### 📊 Estatísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER)
+![Stats](https://github-readme-stats.vercel.app/api?username=Johwh)
