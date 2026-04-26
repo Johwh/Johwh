@@ -18,6 +18,7 @@ Atuo principalmente com Python e SQL, possuindo base em C e buscando aprimoramen
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white" />
+  <img alt="Pandas" src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png/>
 </p>
 
 ---
