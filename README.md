@@ -9,18 +9,12 @@
 # 👋 Olá, me chamo João Vitor
 
 <p align="center">
-  🎓 Estudante de <b>Ciência da Computação</b> na <b>UNICID</b><br><br>
-
-  💻 Focado em <b>desenvolvimento de software</b> e na criação de 
-  <b>soluções eficientes, escaláveis e bem estruturadas</b>.<br><br>
-
-  📊 Experiência com <b>Python, SQL, Pandas e Power BI</b>, 
-  além de base sólida em <b>C</b>.<br><br>
-
-  🚀 Em constante evolução, aprimorando habilidades através de 
-  <b>projetos práticos</b> e estudos contínuos.
+  • 🎓 Estudante de <b>Ciência da Computação</b> na <b>UNICID</b>.<br><br>
+  • 💻 Foco em <b>desenvolvimento de software</b> e na concepção de <b>soluções eficientes, escaláveis e bem estruturadas</b>.<br>
+  • 📊 Experiência com <b>Python, SQL, Pandas e Power BI</b>, além de base sólida em <b>C</b>.<br>
+  • 🚀 Em constante aprimoramento técnico por meio de <b>projetos práticos</b> e <b>estudos contínuos</b>.
 </p>
-
+---
 ## 🛠️ Tecnologias principais
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +23,14 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
+---
+<h2 align="center">📚 Atividades Acadêmicas e Desenvolvimento Técnico</h2>
 
+<p align="center">
+  • Aprofundamento em <b>SQL</b> e <b>Power BI</b>, com foco em análise de dados e visualização estratégica de informações.<br>
+  • Estudo contínuo de <b>Python</b> e <b>Pandas</b> aplicados à <b>Ciência de Dados</b>, com ênfase em manipulação e tratamento de dados.<br>
+  • Desenvolvimento em <b>C</b> para consolidação dos fundamentos em <b>lógica de programação</b> e fortalecimento da base em <b>backend</b>.
+</p>
 ---
 
 - ## 📞 Entre em contato
