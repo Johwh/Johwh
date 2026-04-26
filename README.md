@@ -8,10 +8,18 @@
 
 # 👋 Olá, me chamo João Vitor
 
-Estudante de Ciência da Computação na UNICID, com foco em desenvolvimento de software e construção de soluções bem estruturadas.
+<p align="center">
+  🎓 Estudante de <b>Ciência da Computação</b> na <b>UNICID</b><br><br>
 
-Atuo principalmente com Python e SQL, possuindo base em C e buscando aprimoramento técnico contínuo por meio de projetos práticos.
+  💻 Focado em <b>desenvolvimento de software</b> e na criação de 
+  <b>soluções eficientes, escaláveis e bem estruturadas</b>.<br><br>
 
+  📊 Experiência com <b>Python, SQL, Pandas e Power BI</b>, 
+  além de base sólida em <b>C</b>.<br><br>
+
+  🚀 Em constante evolução, aprimorando habilidades através de 
+  <b>projetos práticos</b> e estudos contínuos.
+</p>
 ---
 
 ## 🛠️ Tecnologias principais
@@ -28,14 +36,5 @@ Atuo principalmente com Python e SQL, possuindo base em C e buscando aprimoramen
 - ## 📞 Entre em contato
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-julio-lima-b32039263/
 - Email: jovijulio10@gmail.com
-
----
-
-
-<h1 align="center">👨‍💻 Nero</h1>
-
-<p align="center">
-  Estudante de Ciência da Computação focado em Segurança 🔐
-</p>
 
 ---
