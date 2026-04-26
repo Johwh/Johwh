@@ -27,3 +27,8 @@ Atuo principalmente com Python e SQL, possuindo base em C e buscando aprimoramen
 - Email: jovijulio10@gmail.com
 
 ---
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER)
