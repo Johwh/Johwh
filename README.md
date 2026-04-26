@@ -29,6 +29,18 @@ Atuo principalmente com Python e SQL, possuindo base em C e buscando aprimoramen
 ---
 
 
+<h1 align="center">👨‍💻 Nero</h1>
 
+<p align="center">
+  Estudante de Ciência da Computação focado em Segurança 🔐
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER)
+---
+
+### 🚀 Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER)
