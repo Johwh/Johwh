@@ -14,7 +14,7 @@
   • 📊 Experiência com <b>Python, SQL, Pandas e Power BI</b>, além de base sólida em <b>C</b>.<br>
   • 🚀 Em constante aprimoramento técnico por meio de <b>projetos práticos</b> e <b>estudos contínuos</b>.
 </p>
----
+
 ## 🛠️ Tecnologias principais
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
----
+
 <h2 align="center">📚 Atividades Acadêmicas e Desenvolvimento Técnico</h2>
 
 <p align="center">
@@ -31,7 +31,7 @@
   • Estudo contínuo de <b>Python</b> e <b>Pandas</b> aplicados à <b>Ciência de Dados</b>, com ênfase em manipulação e tratamento de dados.<br>
   • Desenvolvimento em <b>C</b> para consolidação dos fundamentos em <b>lógica de programação</b> e fortalecimento da base em <b>backend</b>.
 </p>
----
+
 
 - ## 📞 Entre em contato
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-julio-lima-b32039263/
