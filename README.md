@@ -44,7 +44,7 @@
 
   <p>
     📧 <b>Email:</b><br>
-    jovijulio10@gmail.com
+    jovijulio02@gmail.com
   </p>
 </div>
 
